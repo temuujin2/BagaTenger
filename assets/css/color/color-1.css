@@ -52,12 +52,12 @@ a:hover,h5 a:hover,h6 a:hover,.btn.outline,.btn-link:hover{
 .ovpr-dark:after,
 .ovpr:after,
 .bg-primary{	
-    background-color:#3b3caa;
+    background-color:#262c6f;
 }
 /* ======== Footer color ========== */
 .footer-top,
 .footer-bottom {	
-    background-color: #121921;
+    background-color: #262c6f;
 }
 
 .ovbl-middle::after, 
@@ -105,8 +105,8 @@ a:hover,h5 a:hover,h6 a:hover,.btn.outline,.btn-link:hover{
 .courses-carousel .owl-nav .owl-prev, .recent-news-carousel .owl-nav .owl-next, 
 .recent-news-carousel .owl-nav .owl-prev, .testimonial-carousel .owl-nav .owl-next, 
 .testimonial-carousel .owl-nav .owl-prev{	
-    background-color:#f7b205;	
-    color:#000;
+    background-color:#f58234;	
+    color:#fff;
 }
 .footer_widget ul li a:hover,[class*="ovbl-"] 
 .counter-style-1 .counter-text,.header-transparent 
@@ -125,5 +125,5 @@ a:hover,h5 a:hover,h6 a:hover,.btn.outline,.btn-link:hover{
 .owl-nav .owl-prev:hover{	
     background-color:#1d1864;	
     color:#fff;}.heading-bx.left .title-head{	
-    border-color:#f7b205;	
+    border-color:#f58234;	
 }
