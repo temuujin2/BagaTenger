@@ -1,5 +1,17 @@
-<IfModule mod_rewrite.c>
-     RewriteEngine on
-     RewriteCond %{REQUEST_URI} !^public
-     RewriteRule ^(.*)$ public/$1 [L]
- </IfModule>
+my_site.com displaying index.html
+
+my_site.com/dir1/dir2/ must redirect to index.php with parameter dir1/dir2..
+
+please help creating this .htaccess file
+
+i have in existing file this :
+
+RewriteEngine On
+
+RewriteRule ^(.*)(.html|.htm)$ index.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)/?$ index.php [L]
