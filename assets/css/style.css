@@ -200,7 +200,7 @@
 	margin:0;
 	padding:0;
 	list-style:none;
-	font-family:rubik;
+	font-family:Merriweather;
 	font-size:14px;
 }
 .topbar-left ul li{
@@ -243,7 +243,7 @@
 	padding:0 10px 0px 0 !important;
 	height: 18px;
 	color:#000;
-	font-family:rubik;
+	font-family:Merriweather;
 	font-size: 14px;
 }
 .header-lang-bx .btn:hover{
@@ -401,7 +401,7 @@
     font-weight: 400;
     text-transform: uppercase;
     position: relative;
-	font-family: Rubik;
+	font-family: Merriweather;
 }
 .menu-links .nav > li > a {
     border-radius: 0px;
@@ -484,7 +484,7 @@
     -moz-transition: all 0.15s linear;
     -o-transition: all 0.15s linear;
 	font-weight: 400;
-	font-family: Rubik;
+	font-family: Merriweather;
 }
 .menu-links .nav > li .sub-menu li a:hover {
     background-color: #F2F2F2;
@@ -566,7 +566,7 @@
     right: 0px;
     visibility: hidden;
     width: 100%;
-	font-family: Montserrat;
+	font-family: Merriweather;
     margin-top: 20px;
 	z-index: 9;
 }
@@ -1600,20 +1600,20 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     padding: 15px;
     position: relative;
 	font-size:15px;
-	font-family: "Montserrat",sans-serif;
+	font-family: Merriweather;
 	font-weight: 400;
 }
 .testimonial-detail {
     padding: 5px;
 }
 .testimonial-name{
-    font-family: montserrat;
+    font-family: Merriweather;
     font-size: 16px;
     font-weight: 600;
     text-transform: uppercase;
 }
 .testimonial-position {
-	font-family: montserrat;
+	font-family: Merriweather;
     font-size: 12px;
     font-style: inherit;
     text-transform: uppercase;
@@ -1766,14 +1766,14 @@ footer .widget_services ul li:hover {
     background-size: cover;
     background-position: center;
     padding: 0 0 20px;
-	font-family:rubik;
+	font-family:Merriweather;
 }
 .footer-bottom {
     background-color:#303030;
     padding: 25px 0;
     color: #b0b0b0;
 	border-top:1px solid rgba(255,255,255,0.05);
-	font-family:rubik;
+	font-family:Merriweather;
 }
 .footer-bottom ul {
     margin: 0;
@@ -1939,7 +1939,7 @@ button.back-to-top {
 	font-size: 24px;
 	margin-top: 0px;
 	margin-bottom: 6px;
-	font-family: roboto;
+	font-family: Merriweather;
 	line-height: 34px;
 }
 .recent-news .info-bx{
@@ -2214,12 +2214,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', end
 }
 .event-time .event-date{
 	font-size: 55px;
-    font-family: rubik;
+    font-family: Merriweather;
     font-weight: 700;
     line-height: 55px;
 }
 .event-info .event-title{
-	font-family:rubik;
+	font-family:Merriweather;
 	font-weight:500;
 	margin-bottom:5px;
 	font-size:24px;
@@ -2235,7 +2235,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', end
 .event-info p{
 	color: #454545;
     margin-bottom: 0;
-    font-family: rubik;
+    font-family: Merriweather;
     font-size: 15px;
     font-weight: 400;
     line-height: 24px;
@@ -2293,7 +2293,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', end
 .testimonial-bx .testimonial-info:after {
     content: "\f10e";
     position: absolute;
-    font-family: fontawesome;
+    font-family: Merriweather;
     font-size: 50px;
     color:#d6d6d6;
     right: 30px;
@@ -2378,7 +2378,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#391800', end
 }
 .counter-style-1 span{
 	font-size:45px;
-	font-family:rubik;
+	font-family:Merriweather;
 	font-weight:700;
 }
 .counter-style-1 .counter-text{
@@ -2800,7 +2800,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#391800', end
 	font-size: 120px;
 	font-weight: 300;
 	line-height: 90px;
-	font-family:rubik;
+	font-family:Merriweather;
 	color:#fff;
 }
 .priceing-doller {
